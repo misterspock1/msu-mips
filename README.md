@@ -1,3 +1,8 @@
+If you wish to test a running version of the program please go to:  [mainframe measure](https://mainframe-measure.created.app/). 
+
+(The information below applies to running the project on create.xyz)
+
+
 This project was generated from [create.xyz](https://create.xyz/).
 
 It is a [Next.js](https://nextjs.org/) project built on React and TailwindCSS.
